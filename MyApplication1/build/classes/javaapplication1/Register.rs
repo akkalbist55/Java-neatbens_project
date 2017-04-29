@@ -1,0 +1,11 @@
+swastik.Register$9
+swastik.Register$10
+swastik.Register$7
+swastik.Register$8
+swastik.Register$5
+swastik.Register$6
+swastik.Register$3
+swastik.Register$4
+swastik.Register$1
+swastik.Register$2
+swastik.Register
