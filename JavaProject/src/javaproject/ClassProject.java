@@ -324,6 +324,30 @@ public class ClassProject extends javax.swing.JFrame {
 
     private void updateButtonActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_updateButtonActionPerformed
 
+        
+//       try {
+//           
+//            String name = nameField.getText();
+//            String rollno = rollField.getText();
+//            String classno = classField.getText();
+//            
+//       }
+
+
+
+//String sql = "update dataop set id='"+val1+"',username='"
+//            +val2+"',password='"+val3+"',age='"
+//            +val4+"',email='"
+//            +val5+"' where id='"
+//            +val1+"'";
+//pst=connect.prepareStatement(sql);
+//pst.execute();
+//JOptionPane.showMessageDialog(null, "has been Updated !");
+//        } catch (SQLException | HeadlessException e) 
+//        {
+//JOptionPane.showMessageDialog(null, e);
+//        }
+
         // TODO add your handling code here:
         
         
